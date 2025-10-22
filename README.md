@@ -7,19 +7,20 @@ Each subfolder in this directory represents a different project I’ve worked on
 
 ---
 
-## 🧩 Structure
 
-SQL_Databases/
-|
-├── Project 01/
-| ├── assessment.sql
-| └── README.md
-|
-├── Project 02/
-| ├── assessment.sql
-| └── README.md
-|
-└── README.md
+
+## 🧩 Folder Structure
+
+- SQL_Databases/
+  - Project 01/
+    - assessment.sql
+    - README.md
+  - Project 02/
+    - file_name.sql
+    - README.md
+  - Other projects/
+   
+  - README.md
 
 
 ---
