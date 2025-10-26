@@ -9,12 +9,16 @@ It includes the creation of tables, relationships, and sample data for managing 
 ## 🏗️ Project Structure
 
 
+```bash
+      # SQL script that creates and configures the database
+      # Documentation for Project 02
 
+    Project_02/
+    ├── centreformation.sql
+    └── README.md
+ 
 
-
-
-
-
+```
 ---
 
 ## 🧩 Database Schema
@@ -34,4 +38,4 @@ It includes the creation of tables, relationships, and sample data for managing 
 1. Open your SQL environment (MySQL, MariaDB, etc.).
 2. Run the script file:
    ```sql
-   source assessment.sql;
+   source centreformation.sql;
